@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nicolas Billon's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nicolas Billon
+Writer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="nicolas@nicolasbillon.com">nicolas@nicolasbillon.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2021 -->
 
 
