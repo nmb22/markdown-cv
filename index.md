@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Nicolas Billon's CV
+title: Isaac Newton's CV
 ---
-# Nicolas Billon
-Writer.
+# Isaac Newton
+Physicist.
 
 <div id="webaddress">
-<a href="nicolas@nicolasbillon.com">nicolas@nicolasbillon.com</a>
+<a href="isaac@newton.com">isaac@newton.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
