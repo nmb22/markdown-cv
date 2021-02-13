@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Nicolas Billon's CV
+title: N.B.'s CV
 ---
-# Nicolas Billon
+# N.B.
 Writer.
 
 <div id="webaddress">
-<a href="nicolas@nicolasbillon.com">nicolas@nicolasbillon.com</a>
+<a href="">email address</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
